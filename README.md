@@ -1,4 +1,3 @@
-# hello-world
+# Psychoanalytic Reading List
 
-Hi!
-I'm mo-sadaat, and I'm a student.
+A sortable list of noteworthy papers in psychoanalysis.
